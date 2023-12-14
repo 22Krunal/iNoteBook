@@ -50,5 +50,4 @@ function App() {
     </>
   );
 }
-module.exports.userContext = userContext;
 export default App;
